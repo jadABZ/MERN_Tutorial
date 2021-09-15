@@ -14,8 +14,8 @@ const notes = [
   },
   {
     _id: "3",
-    title: "Watched some Anime",
-    content: "Finished 2 seasons of Attack on Titan and My Hero academia.",
+    title: "Watched football",
+    content: "Just watched Cristiano Ronaldo's first match. He scored two goals today",
     category: "Entertainment",
   },
   {
